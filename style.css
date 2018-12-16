@@ -1,0 +1,13 @@
+/*
+ * Template: twentyseventeen
+ * Theme name: test-theme
+ * Description: this is test theme
+ * Author: Glum
+ * Version: 1.0.0
+ */
+
+.home-product {
+    display: block;
+    max-width: 1200px;
+    margin: 0 auto;
+}
